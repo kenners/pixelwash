@@ -10,6 +10,8 @@
 	<string>local.pixelwash.app</string>
 	<key>CFBundleExecutable</key>
 	<string>Pixelwash</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
