@@ -125,3 +125,8 @@ Delete `/Applications/Pixelwash.app`, `~/.local/bin/pixelwash` and
 | `Sources/pixelwash/` | Command-line tool |
 | `Sources/PixelwashApp/` | SwiftUI app |
 | `docs/superpowers/` | Design and implementation plan |
+
+## License
+
+MIT. See [LICENSE](LICENSE). The sandbox image bundles LibreOffice, MuPDF and
+other Debian packages under their own licenses.
