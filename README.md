@@ -60,7 +60,7 @@ make install                # ~/.local/bin/pixelwash and /Applications/Pixelwash
 ```
 
 `make setup` stores everything in `~/Library/Application Support/Pixelwash`
-(about 2 GB).
+(about 1.5 GB).
 
 ## Use
 
